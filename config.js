@@ -49,11 +49,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/_ctzhid' // ig
+global.sig = 'https://instagram.com/catoz_lala' // ig
 global.sgh = 'https://github.com/WH-MODS-BOT/' // github
-global.sgc = 'https://chat.whatsapp.com/FQkbyTEfvES3D363uxMEFOI' // group whatsapp
+global.sgc = 'https://chat.whatsapp.com/DsjDgfTaHgS5BNYzPfLt61' // group whatsapp
 global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://youtube.com/channel/UCEaeLiz0MWBU14ttbtRx6-w' // my youtube channel
 global.sfb = 'https://www.facebook.com/' // facebook
 global.syt = 'https://www.youtube.com/' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
@@ -67,13 +67,13 @@ global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/mrw4h1d'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62XXXXXXXXXXX'
-global.nomorown = '6282127487538'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+global.nomorbot = '62819388300200'
+global.nomorown = '6281938830020'
+global.namebot = 'Achan'
+global.nameown = 'Catozolala'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'Nama Github Belum Diisi' // nama github lu
+global.namagithub = 'CatozolalaBot' // nama github lu
 global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
@@ -85,9 +85,9 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127487538', 'WH MODS DEV', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
+['6281938830020', 'CATOZOLALA', true],
+  ['62819388300200', 'Achan', true],
+  ['6285856382245', 'Kwanto0', true],
   ['-', 'ISI KALAU ADA', true],
   ['-', 'ISI KALAU ADA', true]
     //Ganti jd nomormu sama Namamu
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
+global.wm = '                「 CATOZOLALA 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘CATOZOLALA ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ CATOZOLALA '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | By CATOZOLALA`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.author = '                「 CATOZOLALA  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = 'Catoz'
+global.stickauth = `Sticker Bwang`
 
 global.multiplier = 38 // The higher, The harder levelup
 
